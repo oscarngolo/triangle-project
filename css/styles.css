@@ -1,11 +1,23 @@
 body{
   background-color: lightsalmon;
+  display: flex;
+  flex-direction: column;
+  border: 8px solid #444;
 }
 h1{
 color: green;
 text-align: center;
 text-decoration: underline;
 text-transform: uppercase;
+font-size: 45px;
+}
+h2{
+  margin-bottom: 0;
+  color: green;
+  text-transform: capitalize;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 25px;
 }
 p{
   text-align: center;
