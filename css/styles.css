@@ -17,14 +17,15 @@ h2{
   text-transform: capitalize;
   text-decoration: underline;
   text-align: center;
-  font-size: 25px;
+  font-size: 36px;
 }
 
 p{
   text-align: center;
   margin: 30px;
-  font-size: 36px;
+  font-size: 30px;
 }
 li{
   margin-left: 80px;
+  font-size: 25px;
 }
