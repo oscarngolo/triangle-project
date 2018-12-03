@@ -8,6 +8,7 @@ Triangle tracker is used to identify  the type of triangle whenever we key in a 
 
 ## Setup Instructions
 
+
 All you need is to insert your figures on the input box then click on the type of triangle button right below the input boxes and examine what happens.
 
 
