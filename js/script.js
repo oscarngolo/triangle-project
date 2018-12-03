@@ -18,13 +18,13 @@ var triangleTracker = function(){
   }
 
   else if((side1 + side2) <= (side3) || (side1 + side3) <= (side2) || (side3 + side2) <= (side1)){
-    result = "scalene triangle."
+    result = "This is NOT a triangle."
     console.log(result);
   document.getElementById("output").innerHTML = result;
   }
 
   else {
-    result = "This is NOT a triangle."
+    result = "scalene triangle."
     console.log(result);
   document.getElementById("output").innerHTML = result;
       }
