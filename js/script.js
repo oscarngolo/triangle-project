@@ -4,7 +4,7 @@ var triangleTracker = function() {
   var side3 = parseInt(document.getElementById("sideC").value);
 
   var result;
-  
+
   if (side1 == side2 && side1 == side3 && side2 == side3) {
     result = "equilateral triangle."
     console.log(result);
