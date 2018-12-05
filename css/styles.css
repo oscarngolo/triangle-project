@@ -27,6 +27,8 @@ h2 {
 input{
   font-size: 30px;
   border-radius: 10px;
+  display: inline;
+  margin: 20px;
 }
 p {
   text-align: center;
